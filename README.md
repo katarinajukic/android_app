@@ -1,1 +1,1 @@
-# android_app
+# recipes_android_app
