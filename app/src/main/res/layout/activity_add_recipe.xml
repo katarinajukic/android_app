@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="0.7"
+    android:background="@android:color/holo_orange_dark"
+    tools:context=".AddRecipeActivity">
+
+    <EditText
+        android:id="@+id/nazivEditText"
+        android:layout_width="340dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="52dp"
+        android:background="@drawable/custom_button1"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/title_et"
+        android:textColorHint="@android:color/holo_orange_dark"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/sastojciEditText"
+        android:layout_width="150dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/custom_button1"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/ingredients_et"
+        android:textColorHint="@android:color/holo_orange_dark"
+        android:inputType="textMultiLine"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="18sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.114"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nazivEditText" />
+
+    <EditText
+        android:id="@+id/pripremaEditText"
+        android:layout_width="150dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/custom_button1"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/preparation_et"
+        android:textColorHint="@android:color/holo_orange_dark"
+        android:inputType="textMultiLine"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="18sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.881"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nazivEditText" />
+
+    <ImageView
+        android:id="@+id/uploadImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.142"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sastojciEditText"
+        app:srcCompat="@drawable/gallery_icon" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/odaberiSlikuBtn"
+        android:layout_width="98dp"
+        android:layout_height="103dp"
+        android:layout_marginTop="76dp"
+        android:background="@drawable/custom_button2"
+        android:fontFamily="casual"
+        android:text="odaberi\n sliku"
+        android:textAllCaps="false"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.421"
+        app:layout_constraintStart_toEndOf="@+id/uploadImage"
+        app:layout_constraintTop_toBottomOf="@+id/pripremaEditText" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/spremiBtn"
+        android:layout_width="98dp"
+        android:layout_height="103dp"
+        android:background="@drawable/custom_button2"
+        android:fontFamily="casual"
+        android:text="spremi"
+        android:textAllCaps="false"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/uploadImage" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19541012762",
+    "project_id": "receptiapp-60085",
+    "storage_bucket": "receptiapp-60085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19541012762:android:14477c55a522be025c7ca3",
+        "android_client_info": {
+          "package_name": "com.example.recepti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19541012762-4rnf2gb8b53o3hhg0mbhiuut7e1khb5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7FbDMapS-M-m6zH_gGFPRyja3ed0jSBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19541012762-4rnf2gb8b53o3hhg0mbhiuut7e1khb5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

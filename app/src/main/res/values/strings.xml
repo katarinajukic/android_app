@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recepti</string>
+    <string name="title_et">naziv</string>
+    <string name="ingredients_et">sastojci</string>
+    <string name="preparation_et">priprema</string>
+    <string name="searchText">pretraži recept</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
