@@ -1,7 +1,7 @@
 # Android book recipes app
 Aplikacija predstavlja jednostavnu digitalnu knjigu recepata gdje osoba može spremiti recept, pregledati i pretražiti prethodno spremljene recepte. 
 
-##izgled aplikacije##
+## izgled aplikacije ##
 Ekran dobrodošlice:
 ![image](https://github.com/katarinajukic/android_app/assets/133279741/d5bda38e-b930-4041-a005-41d2aaddb248)
 
