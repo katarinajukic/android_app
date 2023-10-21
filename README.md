@@ -3,7 +3,8 @@ Aplikacija predstavlja jednostavnu digitalnu knjigu recepata gdje osoba može sp
 
 ## izgled aplikacije ##
 Ekran dobrodošlice:
-![image](https://github.com/katarinajukic/android_app/assets/133279741/d5bda38e-b930-4041-a005-41d2aaddb248)
+<img src="https://github.com/katarinajukic/android_app/assets/133279741/d5bda38e-b930-4041-a005-41d2aaddb248" width="200" height="444">
+
 
 Početni zaslon:
 ![image](https://github.com/katarinajukic/android_app/assets/133279741/9abe0e08-a33b-49b0-b26f-bde67909feb9)
