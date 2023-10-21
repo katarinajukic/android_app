@@ -14,6 +14,7 @@ Prikaz spremljenih recepata:
 
 <img src="https://github.com/katarinajukic/android_app/assets/133279741/ce3883a6-4d38-4d5c-8144-31c97af2ad63" width="200" height="444"> <img src="https://github.com/katarinajukic/android_app/assets/133279741/59b36ea0-ff4c-471f-b0c1-6cbc824f5f3d" width="200" height="444">
 
+
 Pretraživanje:
 
 <img src="https://github.com/katarinajukic/android_app/assets/133279741/16e2ce22-32a0-4a47-aab1-11c06fe596c9" width="200" height="444">
@@ -21,6 +22,7 @@ Pretraživanje:
 Prikaz jednog recepta:
 
 <img src="https://github.com/katarinajukic/android_app/assets/133279741/3149cf0b-a525-457e-8e7e-f718255d387a" width="200" height="444"> <img src="https://github.com/katarinajukic/android_app/assets/133279741/f2aedc93-7fa3-40b1-b521-ed4bc037f3f6" width="200" height="444">
+
 
 Dodavanje recepta:
 
