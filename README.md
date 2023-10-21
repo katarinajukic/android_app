@@ -6,9 +6,11 @@ Ekran dobrodošlice:
 
 <img src="https://github.com/katarinajukic/android_app/assets/133279741/d5bda38e-b930-4041-a005-41d2aaddb248" width="200" height="444">
 
+
 Početni zaslon:
 
 <img src="https://github.com/katarinajukic/android_app/assets/133279741/9abe0e08-a33b-49b0-b26f-bde67909feb9" width="200" height="444">
+
 
 Prikaz spremljenih recepata: 
 
@@ -18,6 +20,7 @@ Prikaz spremljenih recepata:
 Pretraživanje:
 
 <img src="https://github.com/katarinajukic/android_app/assets/133279741/16e2ce22-32a0-4a47-aab1-11c06fe596c9" width="200" height="444">
+
 
 Prikaz jednog recepta:
 
